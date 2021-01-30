@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shuotianze.github.io</id>
+    <title>朔天泽</title>
+    <updated>2021-01-30T14:49:56.204Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shuotianze.github.io"/>
+    <link rel="self" href="https://shuotianze.github.io/atom.xml"/>
+    <subtitle>生命不息，折腾不止。</subtitle>
+    <logo>https://shuotianze.github.io/images/avatar.png</logo>
+    <icon>https://shuotianze.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 朔天泽</rights>
+</feed>
