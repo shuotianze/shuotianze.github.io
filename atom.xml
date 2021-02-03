@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuotianze.github.io</id>
     <title>朔天泽</title>
-    <updated>2021-02-01T20:15:37.375Z</updated>
+    <updated>2021-02-03T12:43:22.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuotianze.github.io"/>
     <link rel="self" href="https://shuotianze.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://shuotianze.github.io/images/avatar.png</logo>
     <icon>https://shuotianze.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 朔天泽</rights>
+    <entry>
+        <title type="html"><![CDATA[朔天泽]]></title>
+        <id>https://shuotianze.github.io/rUxpqxfet/</id>
+        <link href="https://shuotianze.github.io/rUxpqxfet/">
+        </link>
+        <updated>2021-02-03T12:42:39.000Z</updated>
+        <content type="html"><![CDATA[<p>我非常满意<img src="https://shuotianze.github.io/post-images/1612356187530.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
 </feed>
