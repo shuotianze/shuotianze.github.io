@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuotianze.github.io</id>
     <title>朔天泽</title>
-    <updated>2021-02-03T13:51:13.523Z</updated>
+    <updated>2021-02-03T13:52:56.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuotianze.github.io"/>
     <link rel="self" href="https://shuotianze.github.io/atom.xml"/>
@@ -56,18 +56,6 @@
 msdn我告诉你https://next.itellyou.cn/<br>
 xmdhttps://subhra74.github.io/xdm/<br>
 微软账户注册https://account.microsoft.com/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://shuotianze.github.io/about/</id>
-        <link href="https://shuotianze.github.io/about/">
-        </link>
-        <updated>2021-02-03T13:48:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-<!-- more -->
 ]]></content>
     </entry>
 </feed>
