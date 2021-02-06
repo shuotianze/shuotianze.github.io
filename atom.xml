@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuotianze.github.io</id>
     <title>朔天泽</title>
-    <updated>2021-02-06T05:07:36.489Z</updated>
+    <updated>2021-02-06T06:26:19.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuotianze.github.io"/>
     <link rel="self" href="https://shuotianze.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://shuotianze.github.io/58M8QE9U8/</id>
         <link href="https://shuotianze.github.io/58M8QE9U8/">
         </link>
-        <updated>2021-02-06T03:04:40.000Z</updated>
+        <updated>2021-02-06T06:25:00.000Z</updated>
         <content type="html"><![CDATA[<p>软件特点<br>
 自主知识产权的新一代反病毒引擎：支持动态分析和静态分析与沙盒分析<br>
 个人版支持x86与x64的Windows系统，企业版支持Linux系统<br>
