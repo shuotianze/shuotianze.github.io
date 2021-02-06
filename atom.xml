@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuotianze.github.io</id>
     <title>朔天泽</title>
-    <updated>2021-02-06T03:30:11.517Z</updated>
+    <updated>2021-02-06T03:52:27.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuotianze.github.io"/>
     <link rel="self" href="https://shuotianze.github.io/atom.xml"/>
@@ -47,7 +47,8 @@ AppInit类（AppInit）<br>
 Winlogon类（Winlogon）<br>
 输入法类（IME）<br>
 计划任务类（Scheduled Tasks）<br>
-<a href="https://down5.huorong.cn/sysdiag-full-5.0.57.0-20210205.exe">点击下载</a></p>
+<a href="https://down5.huorong.cn/sysdiag-full-5.0.57.0-20210205.exe">点击下载</a><br>
+<a href="https://shuotianze.github.io/support/">点击支持</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -95,7 +96,8 @@ Winlogon类（Winlogon）<br>
 <p><a href="https://www.huoong.cn/">火绒</a><br>
 <a href="https://next.itellyou.cn/">msdn我告诉你</a><br>
 <a href="https://subhra74.github.io/xdm/">xmd</a><br>
-<a href="https://account.microsoft.com/">微软账户注册</a></p>
+<a href="https://account.microsoft.com/">微软账户注册</a><br>
+<a href="https://shuotianze.github.io/support/">点击支持</a></p>
 ]]></content>
     </entry>
 </feed>
