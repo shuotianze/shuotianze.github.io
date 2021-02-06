@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuotianze.github.io</id>
     <title>朔天泽</title>
-    <updated>2021-02-06T03:14:20.266Z</updated>
+    <updated>2021-02-06T03:16:43.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuotianze.github.io"/>
     <link rel="self" href="https://shuotianze.github.io/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://shuotianze.github.io/images/avatar.png</logo>
     <icon>https://shuotianze.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 朔天泽</rights>
+    <entry>
+        <title type="html"><![CDATA[火绒安全软件]]></title>
+        <id>https://shuotianze.github.io/58M8QE9U8/</id>
+        <link href="https://shuotianze.github.io/58M8QE9U8/">
+        </link>
+        <updated>2021-02-06T03:04:40.000Z</updated>
+        <content type="html"><![CDATA[<p>软件特点<br>
+自主知识产权的新一代反病毒引擎：支持动态分析和静态分析与沙盒分析<br>
+个人版支持x86与x64的Windows系统，企业版支持Linux系统<br>
+采用“内核纯净化”技术处理内核级Rootkit<br>
+采用单步加多步的主动防御（HIPS）技术<br>
+访问控制，允许机主将计算机调整到更合适的访客使用状态<br>
+程序内附有安全工具，其中包含有弹窗拦截工具<br>
+无任何流氓行为<br>
+软件精简，对系统资源的占用低。<br>
+弹窗拦截<br>
+安全工具包含弹窗拦截。支持扫描已安装软件中已知的不受欢迎弹窗，同时允许用户截图拦截自定义规则，对未能扫描到的新型弹窗进行手动拦截，也支持窗口记录，在窗口弹出后火绒弹窗拦截工具将会自动记录该弹窗，从中用户可决定是否拦截<br>
+启动项管理<br>
+可以扫描系统中的启动项，并可以对扫描到的启动项进行禁用、启动和删除<br>
+支持扫描以下类型启动项：<br>
+登录类（Logon）<br>
+浏览器类（Explorer）<br>
+IE浏览器类（Internet Explorer）<br>
+系统服务类（Services）<br>
+内核驱动类（Drivers）<br>
+解码器类（Codecs）<br>
+Winsock提供者类（Winsock Providers）<br>
+打印提供者类（Print Monitors）<br>
+本地安全认证类（LSA Providers）<br>
+网络提供者类（Network Providers）<br>
+启动执行类（Boot Execute）<br>
+映像劫持类（Image Hijacks）<br>
+AppInit类（AppInit）<br>
+已知动态库类（KnownDLLs）<br>
+Winlogon类（Winlogon）<br>
+输入法类（IME）<br>
+计划任务类（Scheduled Tasks）<br>
+<a href="https://down5.huorong.cn/sysdiag-full-5.0.57.0-20210205.exe">点击下载</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电脑使用说明书]]></title>
         <id>https://shuotianze.github.io/cKggFXv-L/</id>
