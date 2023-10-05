@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>视频加速播放</title>
+      <link href="/posts/ee3d720c.html"/>
+      <url>/posts/ee3d720c.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="手动法"><a href="#手动法" class="headerlink" title="手动法"></a>手动法</h2><p>在浏览器控制台输入</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">document.querySelector(<span class="string">&quot;video&quot;</span>).playbackRate=<span class="string">&quot;16&quot;</span>          // 16为播放倍数</span><br></pre></td></tr></table></figure><h2 id="插件法"><a href="#插件法" class="headerlink" title="插件法"></a>插件法</h2><p><a href="https://microsoftedge.microsoft.com/addons/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/mjhlabbcmjflkpjknnicihkfnmbdfced">Global Speed: 视频速度控制 - Microsoft Edge Addons</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 小技巧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>heox报错Error:Spawnfailed</title>
       <link href="/posts/c63de874.html"/>
       <url>/posts/c63de874.html</url>
