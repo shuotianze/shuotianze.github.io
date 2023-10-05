@@ -5,8 +5,8 @@
     
     <entry>
       <title>heox报错Error:Spawnfailed</title>
-      <link href="/posts/0.html"/>
-      <url>/posts/0.html</url>
+      <link href="/posts/c63de874.html"/>
+      <url>/posts/c63de874.html</url>
       
         <content type="html"><![CDATA[<h2 id="报错"><a href="#报错" class="headerlink" title="报错"></a>报错</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">Error: Spawn failed</span><br><span class="line">    at ChildProcess.&lt;anonymous&gt; (D:\blogs\node_modules\hexo-util\lib\spawn.js:51:21)</span><br><span class="line">    at ChildProcess.emit (node:events:513:28)</span><br><span class="line">    at cp.emit (D:\blogs\node_modules\cross-spawn\lib\enoent.js:34:29)</span><br><span class="line">    at ChildProcess._handle.onexit (node:internal/child_process:291:12)</span><br></pre></td></tr></table></figure><h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><ol><li><p>网络原因 下载 Watt Toolkit</p><p>加速github就好了</p></li><li><p>没遇到</p></li></ol>]]></content>
       
