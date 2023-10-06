@@ -307,7 +307,7 @@
       <link href="/posts/e6e16d2.html"/>
       <url>/posts/e6e16d2.html</url>
       
-        <content type="html"><![CDATA[<p>Drive SnapShot中文版是一款小巧而强大的系统热备份软件。其最新版本的硬盘备份软件支持磁盘卷热备份还原、差异备份、增量备份、异机还原、远程备份、RAID磁盘阵列、挂载映像文件映射虚拟驱动器等功能，还能生成哈希文件和进行命令行操作。</p><p>该工具备份速度快，产生的镜像文件体积较小。此外，它还是一款短小精悍的软件，原生绿色单执行文件，无额外临时数据生成。</p><p><img src="https://article.biliimg.com/bfs/article/5746045be066abab5bb76ef67a0f3a6b1774907706.png"></p><p><img src="https://article.biliimg.com/bfs/article/f21fb54e5fc7cb1e9084a47d2e36e63b1774907706.png"></p><p>xxxxxxxxxx pkg updatebash</p><blockquote><p>快速下载：<a href="https://one.0oo0.cc/B2/pc/Snapshot.7z">点击下载</a></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<p>Drive SnapShot中文版是一款小巧而强大的系统热备份软件。其最新版本的硬盘备份软件支持磁盘卷热备份还原、差异备份、增量备份、异机还原、远程备份、RAID磁盘阵列、挂载映像文件映射虚拟驱动器等功能，还能生成哈希文件和进行命令行操作。</p><p>该工具备份速度快，产生的镜像文件体积较小。此外，它还是一款短小精悍的软件，原生绿色单执行文件，无额外临时数据生成。</p><p><img src="https://article.biliimg.com/bfs/article/5746045be066abab5bb76ef67a0f3a6b1774907706.png"></p><p><img src="https://article.biliimg.com/bfs/article/f21fb54e5fc7cb1e9084a47d2e36e63b1774907706.png"></p><blockquote><p>快速下载：<a href="https://one.0oo0.cc/B2/pc/Snapshot.7z">点击下载</a></p></blockquote>]]></content>
       
       
       
@@ -337,6 +337,8 @@
       
       
         <tags>
+            
+            <tag> 教程 </tag>
             
             <tag> 我的世界 </tag>
             
@@ -386,10 +388,10 @@
     
     <entry>
       <title>minecraft进服教程</title>
-      <link href="/posts/1391.html"/>
-      <url>/posts/1391.html</url>
+      <link href="/posts/e663c76e.html"/>
+      <url>/posts/e663c76e.html</url>
       
-        <content type="html"><![CDATA[<h3 id="下载客户端"><a href="#下载客户端" class="headerlink" title="下载客户端"></a>下载客户端</h3><blockquote><p>下载地址：<code>https://www.123pan.com/s/fGYDVv-hWQ7A.html</code></p></blockquote><p>下载并解压，运行Plain Craft Launcher 2.exe</p><h3 id="注册账号"><a href="#注册账号" class="headerlink" title="注册账号"></a>注册账号</h3><p>本服务器是使用littleskin第三方验证的服务器，注册地址是<code>https://littleskin.cn</code>注册完成在客户端登录即可。</p><h4 id="客户端设置littleskin"><a href="#客户端设置littleskin" class="headerlink" title="客户端设置littleskin"></a>客户端设置littleskin</h4><p>以此点击版本设置，设置，滚轮下滑，服务器，设置为littleskin，返回并登录<br><img src="/img/littleskin.png"></p><h3 id="加入服务器"><a href="#加入服务器" class="headerlink" title="加入服务器"></a>加入服务器</h3><h4 id="有ipv6直接连接"><a href="#有ipv6直接连接" class="headerlink" title="有ipv6直接连接"></a>有ipv6直接连接</h4><blockquote><p>打开网址查看是否有ipv6：<code>https://ipw.cn/ipv6/</code></p></blockquote><p>显示ipv6优先，在mc中添加ip<code>ipv6mc.sdax.top</code>默认客户端是添加过的，如果没有ipv6，看下一步操作，</p><h4 id="没有ipv6使用zerotier"><a href="#没有ipv6使用zerotier" class="headerlink" title="没有ipv6使用zerotier"></a>没有ipv6使用zerotier</h4><p>打开zerotier官网windows用户点击win图标就是田字格下载</p><blockquote><p>下载zerotier：<code>https://www.zerotier.com/download/</code></p></blockquote><p><img src="/img/zerotier2.png"></p><p>双击安装，右下角找到图标。<br><img src="/img/zerotier.png"><br>点击Join New Network 会弹出一个窗口填入id点击Join </p><blockquote><p>ID：1c33c1ced0126607</p></blockquote><p><img src="/img/zerotier1.png"></p><p>mc中添加服务器ip<code>10.147.17.108</code></p><h3 id="服务器地图"><a href="#服务器地图" class="headerlink" title="服务器地图"></a>服务器地图</h3><blockquote><p>ipv6：<code>http://ipv6mc.sdax.top:8123/</code></p></blockquote><blockquote><p>zerotier：<code>http://10.147.17.108:8123/</code></p></blockquote>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
