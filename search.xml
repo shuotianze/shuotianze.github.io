@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>windows重装指南</title>
+      <link href="/posts/da5e96bf.html"/>
+      <url>/posts/da5e96bf.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="下载镜像"><a href="#下载镜像" class="headerlink" title="下载镜像"></a>下载镜像</h2><p><a href="https://www.microsoft.com/zh-cn/software-download/windows11">Download Windows 11</a></p><h2 id="制作启动u盘"><a href="#制作启动u盘" class="headerlink" title="制作启动u盘"></a>制作启动u盘</h2><p><a href="https://www.123pan.com/s/ABtA-NgngA">firpe</a> </p><p><a href="https://www.ventoy.net/cn/">Ventoy</a></p><h2 id="装就行了"><a href="#装就行了" class="headerlink" title="装就行了"></a>装就行了</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 系统 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>视频加速播放</title>
       <link href="/posts/ee3d720c.html"/>
       <url>/posts/ee3d720c.html</url>
@@ -226,7 +253,7 @@
       <link href="/posts/95fbf3c4.html"/>
       <url>/posts/95fbf3c4.html</url>
       
-        <content type="html"><![CDATA[<h2 id="NeatDownloadManager一款可以替代IDM下载器"><a href="#NeatDownloadManager一款可以替代IDM下载器" class="headerlink" title="NeatDownloadManager一款可以替代IDM下载器"></a>NeatDownloadManager一款可以替代IDM下载器</h2><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>连续点击Next 直到出现第二张图<br><img src="https://article.biliimg.com/bfs/article/b4df741b68d04e1d068e5811cb69bd3c1774907706.png@1e_1c.webp"></p><h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h3><p>点击Install</p><p><img src="https://article.biliimg.com/bfs/article/b82df7082234e7c87836259597fc58341774907706.png@1e_1c.webp"></p><h3 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h3><p>点击Finish<br><img src="https://article.biliimg.com/bfs/article/dffb2f9a7a80dd802439cadb0a3d7aea1774907706.png@1e_1c.webp"></p><h2 id="配置为默认下载器"><a href="#配置为默认下载器" class="headerlink" title="配置为默认下载器"></a>配置为默认下载器</h2><h2 id="第一步-1"><a href="#第一步-1" class="headerlink" title="第一步"></a>第一步</h2><p>点击浏览器图标<br><img src="https://article.biliimg.com/bfs/article/8c3ad1b45c0325b6dfd9906475f2b5d71774907706.png@1e_1c.webp"></p><h2 id="第二步-1"><a href="#第二步-1" class="headerlink" title="第二步"></a>第二步</h2><p><img src="https://article.biliimg.com/bfs/article/de832b99b179c2e5e5878da2004cc6481774907706.png@1e_1c.webp"><br>选择浏览器一般是都是edge<br><img src="https://article.biliimg.com/bfs/article/56149c756c51c9ab7c2a4d9983243f5a1774907706.png@1e_1c.webp"><br>点击add Edge Extension 会跳转到浏览器 点击安装，我已经安装过了所以显示是删除<br>设置完成在Edge下载默认会调用NDM</p><h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><p>设置完上面egde浏览器下载都会被NDM接管<br>下载过程图<br><img src="https://article.biliimg.com/bfs/article/c1cf5033a3824376df779303eb92ce821774907706.png@1e_1c.webp"></p><p>下载完成如何打开呢？<br>下载完成会自动跳出框框 我已经标注好中文放下面了</p><p><img src="https://article.biliimg.com/bfs/article/8ffd2920ffc2a500ce0fb3929aa242f71774907706.png@1e_1c.webp"></p><h2 id="如何下载自定义链接"><a href="#如何下载自定义链接" class="headerlink" title="如何下载自定义链接"></a>如何下载自定义链接</h2><p>先要下载自定义链接，点击左上角蓝色加号即可<br>先复制在点击蓝色加号会自动将链接黏贴进去<br>点击download开始下载<br>如图所示<br><img src="https://article.biliimg.com/bfs/article/5b19d55f2c1d6ba53882710d939b6cc91774907706.png@1e_1c.webp"></p><blockquote><p>官网地址：<a href="https://www.neatdownloadmanager.com/index.php/en/">点击跳转</a><br>官方下载：<a href="https://www.neatdownloadmanager.com/file/NeatDM_setup.exe">点击下载</a><br>极速下载：<a href="https://one.0oo0.cc/B2/app/NeatDM_setup.exe">点击下载</a></p></blockquote><h2 id="捐赠"><a href="#捐赠" class="headerlink" title="捐赠"></a>捐赠</h2><p>我想到一种免费的捐赠就是扫支付宝红包<br><img src="https://article.biliimg.com/bfs/article/28aa7bece14af7a89d4e16580d78e1281774907706.jpg@1e_1c.webp"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="NeatDownloadManager一款可以替代IDM下载器"><a href="#NeatDownloadManager一款可以替代IDM下载器" class="headerlink" title="NeatDownloadManager一款可以替代IDM下载器"></a>NeatDownloadManager一款可以替代IDM下载器</h2><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>连续点击Next 直到出现第二张图<br><img src="https://article.biliimg.com/bfs/article/b4df741b68d04e1d068e5811cb69bd3c1774907706.png@1e_1c.webp"></p><h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h3><p>点击Install</p><p><img src="https://article.biliimg.com/bfs/article/b82df7082234e7c87836259597fc58341774907706.png@1e_1c.webp"></p><h3 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h3><p>点击Finish<br><img src="https://article.biliimg.com/bfs/article/dffb2f9a7a80dd802439cadb0a3d7aea1774907706.png@1e_1c.webp"></p><h2 id="配置为默认下载器"><a href="#配置为默认下载器" class="headerlink" title="配置为默认下载器"></a>配置为默认下载器</h2><h2 id="第一步-1"><a href="#第一步-1" class="headerlink" title="第一步"></a>第一步</h2><p>点击浏览器图标<br><img src="https://article.biliimg.com/bfs/article/8c3ad1b45c0325b6dfd9906475f2b5d71774907706.png@1e_1c.webp"></p><h2 id="第二步-1"><a href="#第二步-1" class="headerlink" title="第二步"></a>第二步</h2><p><img src="https://article.biliimg.com/bfs/article/de832b99b179c2e5e5878da2004cc6481774907706.png@1e_1c.webp"><br>选择浏览器一般是都是edge<br><img src="https://article.biliimg.com/bfs/article/56149c756c51c9ab7c2a4d9983243f5a1774907706.png@1e_1c.webp"><br>点击add Edge Extension 会跳转到浏览器 点击安装，我已经安装过了所以显示是删除<br>设置完成在Edge下载默认会调用NDM</p><h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><p>设置完上面egde浏览器下载都会被NDM接管<br>下载过程图<br><img src="https://article.biliimg.com/bfs/article/c1cf5033a3824376df779303eb92ce821774907706.png@1e_1c.webp"></p><p>下载完成如何打开呢？<br>下载完成会自动跳出框框 我已经标注好中文放下面了</p><p><img src="https://article.biliimg.com/bfs/article/8ffd2920ffc2a500ce0fb3929aa242f71774907706.png@1e_1c.webp"></p><h2 id="如何下载自定义链接"><a href="#如何下载自定义链接" class="headerlink" title="如何下载自定义链接"></a>如何下载自定义链接</h2><p>先要下载自定义链接，点击左上角蓝色加号即可<br>先复制在点击蓝色加号会自动将链接黏贴进去<br>点击download开始下载<br>如图所示<br><img src="https://article.biliimg.com/bfs/article/5b19d55f2c1d6ba53882710d939b6cc91774907706.png@1e_1c.webp"></p><blockquote><p>官网地址：<a href="https://www.neatdownloadmanager.com/index.php/en/">点击跳转</a><br>官方下载：<a href="https://www.neatdownloadmanager.com/file/NeatDM_setup.exe">点击下载</a></p></blockquote><h2 id="捐赠"><a href="#捐赠" class="headerlink" title="捐赠"></a>捐赠</h2><p>我想到一种免费的捐赠就是扫支付宝红包<br><img src="https://article.biliimg.com/bfs/article/28aa7bece14af7a89d4e16580d78e1281774907706.jpg@1e_1c.webp"></p>]]></content>
       
       
       <categories>
