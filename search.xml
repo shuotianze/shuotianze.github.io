@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>移动光猫改桥接</title>
+      <link href="/posts/f053e453.html"/>
+      <url>/posts/f053e453.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="智能家庭网关-型号H5-9"><a href="#智能家庭网关-型号H5-9" class="headerlink" title="智能家庭网关 型号H5-9"></a>智能家庭网关 型号H5-9</h2><ol><li><p>启动telnet<br>浏览器地址栏打开<code>http://192.168.1.1/usr=CMCCAdmin&amp;psw=aDm8H%25MdA&amp;cmd=1&amp;telnet.gch</code></p></li><li><p>putty打开telnet<br>输入ip<code>192.168.1.1</code> 用户名 <code>CMCCAdmin</code> 密码 <code>aDm8H%MdA</code></p></li><li><p>修改CMCCAdmin的登陆密码</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sidbg 1 DB <span class="built_in">set</span> DevAuthInfo 0 Pass aDm8H%MdA      //修改密码</span><br><span class="line">sidbg 1 DB save                                 //保存推出</span><br></pre></td></tr></table></figure></li><li><p>浏览器登录<br>打开<code>http://192.168.1.1/</code>登录 用户名 <code>CMCCAdmin</code> 密码 <code>aDm8H%MdA</code></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 小技巧 </tag>
+            
+            <tag> 光猫 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>windows重装指南</title>
       <link href="/posts/da5e96bf.html"/>
       <url>/posts/da5e96bf.html</url>
