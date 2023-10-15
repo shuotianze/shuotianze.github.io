@@ -62,27 +62,16 @@
               writable: false,
             });
           }
+      // 获取url中的参数
+const urlParams = new URLSearchParams(window.location.search);
+const url = urlParams.get('url');
 
-          // 获取URL中的参数
-function getParameterByName(name) {
-  name = name.replace(/[\[\]]/g, '\\$&');
-  var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
-      results = regex.exec(window.location.href);
-  if (!results) return null;
-  if (!results[2]) return '';
-  return decodeURIComponent(results[2].replace(/\+/g, ' '));
+// 修改链接
+if (url) {
+  const linkElement = document.querySelector('a[href="https://0oo0.cc"]');
+  if (linkElement) {
+    linkElement.href = url;
+  }
 }
-
-// 获取要替换的新链接
-var newLink = getParameterByName('url');
-
-// 获取所有包含链接的元素
-var links = document.querySelectorAll('a');
-
-// 遍历每个链接元素
-links.forEach(function(link) {
-  // 替换链接的href属性
-  link.href = newLink;
-});
 
     </script></body></html>
