@@ -188,8 +188,8 @@
       </tags>
   </entry>
   <entry>
-    <title>测试</title>
-    <url>/posts/9daba997.html</url>
+    <title>git登录github.md</title>
+    <url>/posts/84c06176.html</url>
     <content><![CDATA[<h2 id="创建密钥"><a href="#创建密钥" class="headerlink" title="创建密钥"></a>创建密钥</h2><ol>
 <li>打开Git Bash。</li>
 <li>粘贴下面的文本，将电子邮件地址替换为您的 GitHub 帐户的电子邮件地址。</li>
@@ -198,7 +198,7 @@
 <p>注意：如果命令失败，并且你收到错误 <code>invalid format</code> 或 <code>feature not supported,</code>，则表明你可能在使用不支持 Ed25519 算法的硬件安全密钥。 请输入以下命令。</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t ecdsa-sk -C &quot;your_email@example.com&quot;</span><br></pre></td></tr></table></figure>
 <p>直接回车就行</p>
-<p>在<code>C:\Users\Administrator</code>下找到<code>.shh</code> 这里<code>Administrator</code>是我的用户名称<code>id_rsa.pub</code>填到GitHub的<a href="/go.html?url=https://github.com/settings/keys">SSH keys</a>  点击<code>New SSH key</code> <code>Title</code>随意填写<code>Key</code>填你的<code>id_rsa.pub</code>内容<code>AddSSH keys</code>即刻</p>
+<p>在<code>C:\Users\Administrator</code>下找到<code>.shh</code> 这里<code>Administrator</code>是我的用户名称<code>id_rsa.pub</code>填到GitHub的<a href="/go.html?url=https://github.com/settings/keys">SSH keys</a>  点击<code>New SSH key</code> <code>Title</code>随意填写<code>Key</code>填你的<code>id_rsa.pub</code>内容<code>AddSSH keys</code>即可</p>
 ]]></content>
       <tags>
         <tag>hexo</tag>
@@ -617,7 +617,7 @@
     <content><![CDATA[<p><link rel="stylesheet" href="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"> </p>
 <p><script src="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script> </p>
 <p><script src="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script><br>
-    <div id="aplayer-SOAEkwyi" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-eBBlaJXN" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="7868005687" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="1000px" data-preload="auto" data-theme="#555"
     ></div></p>
 ]]></content>
