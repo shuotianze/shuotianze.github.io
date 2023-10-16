@@ -200,6 +200,10 @@
 <p>直接回车就行</p>
 <p>在<code>C:\Users\Administrator</code>下找到<code>.shh</code> 这里<code>Administrator</code>是我的用户名称<code>id_rsa.pub</code>填到GitHub的<a href="/go.html?url=https://github.com/settings/keys">SSH keys</a>  点击<code>New SSH key</code> <code>Title</code>随意填写<code>Key</code>填你的<code>id_rsa.pub</code>内容<code>AddSSH keys</code>即刻</p>
 ]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>教程</tag>
+      </tags>
   </entry>
   <entry>
     <title>hexo部署到github pages注意事项</title>
@@ -603,20 +607,20 @@
     <content><![CDATA[<center><font size="5"> 欢迎留言</font></center>]]></content>
   </entry>
   <entry>
+    <title>友链</title>
+    <url>/link/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>音乐</title>
     <url>/music/index.html</url>
     <content><![CDATA[<p><link rel="stylesheet" href="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"> </p>
 <p><script src="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script> </p>
 <p><script src="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script><br>
-    <div id="aplayer-bcLlsNXO" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-SOAEkwyi" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="7868005687" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="1000px" data-preload="auto" data-theme="#555"
     ></div></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>友链</title>
-    <url>/link/index.html</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>碎碎念</title>
