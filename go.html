@@ -1,0 +1,34 @@
+<!DOCTYPE html><html lang="zh">
+<head>
+<meta charSet="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="format-detection" content="telephone=no"/>
+<title>0oo0&blog-万能啊朔</title>
+<link rel="icon" href="https://unpkg.com/shuotianze-static@2.0.25/img/blog/favicon.ico">
+<link rel="stylesheet" href="https://unpkg.com/shuotianze-static@2.0.26/css/base.css"/>
+<link rel="stylesheet" href="https://unpkg.com/shuotianze-static@2.0.26/css/url.css"/>
+</head>
+<body class="is-pc">
+  <div id="__next">
+      <div class="cdc-external-link-page cdc-global">
+        <div class="mod-external-link">
+          <div class="mod-external-link-logo"></div>
+          <div class="mod-external-link-content">
+            <div class="mod-external-link-main">
+              <div class="mod-external-link-title">您即将离开0oo0&blog，请注意您的账号财产安全</div>
+              <div class="mod-external-link-address" id="external-link-address"></div>
+            </div>
+            <div class="mod-external-link-btn">
+              <a href="" id="external-link-btn">继续访问</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<script>
+  var url = new URL(window.location.href);
+  var target = url.searchParams.get("url");
+  document.getElementById("external-link-address").innerHTML = target;
+  document.getElementById("external-link-btn").href = target;
+</script>
+</body></html>
