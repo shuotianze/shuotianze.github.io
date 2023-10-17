@@ -326,3 +326,32 @@ div#category {
 #article-container figure.highlight {
   border-radius: 10px;
 }
+
+/* 欢迎信息栏样式 */
+#welcome-info {
+  background: linear-gradient(45deg, #b9f4f3, #e3fbf9);
+  border-radius: 18px;
+  padding: 8px;
+  --icat-card-welcome: #49b1f5;
+  line-height: 25px
+}
+#welcome-info .welcome-hy {
+  color: #39c5bb;
+  font-size: 15px;
+} 
+#welcome-info .welcome-region {
+  background: var(--icat-background);
+  border: var(--style-border);
+  color: var(--icat-fontcolor);
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 10px;
+  margin: 6px 0;
+}
+#welcome-info .welcome-ip{
+  font-size: 10px;
+}
+#welcome-info .welcome-hyy{
+  font-size: 20px;
+}
