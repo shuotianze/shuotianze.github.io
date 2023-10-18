@@ -330,14 +330,14 @@ div#category {
 /* 欢迎信息栏样式 */
 
 #welcome-info {
-  background: linear-gradient(45deg, #b9f4f3, #e3fbf9);
+  background: linear-gradient(45deg,  #90fef3, #ff8a8a);
   border-radius: 18px;
   padding: 8px;
-  --icat-card-welcome: #49b1f5;
+  --icat-card-welcome: #40fdbe;
   line-height: 25px
 }
 #welcome-info .welcome-hy {
-  color: #39c5bb;
+  color: #40fdbe;
   font-size: 15px;
 } 
 #welcome-info .welcome-region {
