@@ -188,6 +188,15 @@
       </tags>
   </entry>
   <entry>
+    <title>git提交指令</title>
+    <url>/posts/fbdc6e58.html</url>
+    <content><![CDATA[<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m &quot;github action update&quot;</span><br><span class="line">git push origin main</span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">2020年10月之前github创建仓库默认分支为master</span></span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>git登录github</title>
     <url>/posts/84c06176.html</url>
     <content><![CDATA[<h2 id="创建密钥"><a href="#创建密钥" class="headerlink" title="创建密钥"></a>创建密钥</h2><ol>
@@ -602,14 +611,14 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>友链</title>
-    <url>/link/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>留言板</title>
     <url>/envelope/index.html</url>
     <content><![CDATA[<center><font size="5"> 欢迎留言</font></center>]]></content>
+  </entry>
+  <entry>
+    <title>友链</title>
+    <url>/link/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>音乐</title>
@@ -617,7 +626,7 @@
     <content><![CDATA[<p><link rel="stylesheet" href="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"> </p>
 <p><script src="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script> </p>
 <p><script src="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script><br>
-    <div id="aplayer-gKjkSdCp" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-QZGqPtUI" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="7868005687" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="1000px" data-preload="auto" data-theme="#555"
     ></div></p>
 ]]></content>
