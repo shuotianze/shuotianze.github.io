@@ -150,6 +150,16 @@
       </tags>
   </entry>
   <entry>
+    <title>diy机箱</title>
+    <url>/posts/d7b9a246.html</url>
+    <content><![CDATA[<p>啥都不说了上图吧<br><img src="https://article.biliimg.com/bfs/article/56d2d1ffc6e4fe2b915eec36c3c7a82f1774907706.jpg" alt=""><br><img src="https://article.biliimg.com/bfs/article/7ff6dd422c6774dfb459cba833b832eb1774907706.jpg" alt=""><br><img src="https://article.biliimg.com/bfs/article/cf46f4738f44e598b4db52762f05a9201774907706.jpg" alt=""><br><img src="https://article.biliimg.com/bfs/article/7285db5b0d6b8505c5a4e4a2bef3adc11774907706.jpg" alt=""></p>
+]]></content>
+      <tags>
+        <tag>机箱</tag>
+        <tag>diy</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>everything</title>
     <url>/posts/542f557.html</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>xxxxxxxxxx Error: Spawn failed    at ChildProcess.<anonymous> (D:\blogs\node_modules\hexo-util\lib\spawn.js:51:21)    at ChildProcess.emit (node:events:513:28)    at cp.emit (D:\blogs\node_modules\cross-spawn\lib\enoent.js:34:29)    at ChildProcess._handle.onexit (node:internal/child_process:291:12)Shell</p>
@@ -537,10 +547,6 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left">腾讯内容分发</td>
-<td style="text-align:left">cdn</td>
-</tr>
-<tr>
 <td style="text-align:left">Github pages</td>
 <td style="text-align:left">静态托管</td>
 </tr>
@@ -626,7 +632,7 @@
     <content><![CDATA[<p><link rel="stylesheet" href="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"> </p>
 <p><script src="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script> </p>
 <p><script src="http://aciano.top/redirect/?target=https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script><br>
-    <div id="aplayer-UrKkmFGx" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-XmxmVcow" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="7868005687" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="1000px" data-preload="auto" data-theme="#555"
     ></div></p>
 ]]></content>
